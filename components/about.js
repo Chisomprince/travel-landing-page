@@ -7,7 +7,7 @@ export default function About() {
         <div className="lg:grid grid-cols-2 px-4 lg:px-16 py-24 lg:flex-row lg:justify-between ">
           <div className="flex w-full">
             <img
-              src="https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80"
+              src="https://images.unsplash.com/photo-1496046596374-a16aa8b8ae63?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1473&q=80"
               alt=""
               className="object-contain "
             />
