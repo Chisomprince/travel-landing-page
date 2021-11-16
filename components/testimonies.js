@@ -4,7 +4,7 @@ import Rating from "./rating";
 export default function Testimonies() {
   return (
     <div className="bg-yellow-100 p-8">
-      <div className="w-2/3 mx-auto text-center py-8">
+      <div className="lg:w-2/3 mx-auto text-center py-8">
         <span className="font-bold text-4xl my-4">
           Meet Our Happy
           <span className="text-pink-500"> Clients</span>
@@ -15,7 +15,7 @@ export default function Testimonies() {
           since the 1500s,
         </p>
       </div>
-      <div className="container flex flex-col mx-auto w-3/4">
+      <div className="container flex flex-col mx-auto lg:w-3/4">
         <div className="bg-white rounded-lg flex flex-col justify-center p-4 gap-6 ">
           <div className="flex space-x-4">
             <div>
