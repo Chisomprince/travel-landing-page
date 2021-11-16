@@ -50,10 +50,10 @@ export default function Nav() {
             </li>
           </ul>
           <div className="items-center flex-shrink-0 hidden lg:flex gap-6">
-            <button className="self-center px-6 py-2 rounded-full text-pink-400 border border-pink-400">
+            <button className="self-center px-6 py-2 rounded-full text-pink-400 border border-pink-400 hover:border-pink-600 hover:text-pink-600">
               Contact
             </button>
-            <button className="self-center px-8 py-2 text-white font-semibold rounded-full bg-pink-400">
+            <button className="self-center px-8 py-2 text-white font-semibold rounded-full bg-pink-400 hover:bg-pink-600 ">
               Book a trip
             </button>
           </div>
